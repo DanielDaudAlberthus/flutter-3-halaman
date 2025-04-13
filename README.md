@@ -1,2 +1,1 @@
-<h1>BUAT APLIKASI 3 HALAMAN</h1>
 
